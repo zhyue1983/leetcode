@@ -19,7 +19,7 @@ namespace leetcode
             Console.WriteLine(new NumMatrix(num).SumRegion(2, 1, 4, 3));
 
             Console.WriteLine("-----------------------------FindMedianSorted--------------------------------------");
-            Console.WriteLine(FindMedianSorted.FindMedianSortedArrays2(new int[] { 1, 3 }, new int[] { 2, 2 }));
+            Console.WriteLine(FindMedianSorted.FindMedianSortedArrays(new int[] { 1, 3 }, new int[] { 2, 2 }));
         }
     }
 }

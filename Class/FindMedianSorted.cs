@@ -57,13 +57,6 @@ namespace leetcode.Class
                 return numsOrderBY[index];
             }
         }
-        public static double FindMedianSortedArrays2(int[] nums1, int[] nums2)
-        {
-            int count1 = nums1.Length;
-            int count2 = nums2.Length;
-            int[] nums = new int[count1 + count2];
 
-            return 1d;
-        }
     }
 }
